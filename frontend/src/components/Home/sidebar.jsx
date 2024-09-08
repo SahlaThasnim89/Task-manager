@@ -17,7 +17,8 @@ function sidebar() {
     },
   ];
   return (
-<>     <div className="">
+<>     
+<div className="">
         <h2 className="font-bold text-xl">Sahla Thasnim</h2>
         <h4 className="my-1 text-gray-400 mb-1">Sahlathasnim2002@gmail.com</h4>
         <hr />
